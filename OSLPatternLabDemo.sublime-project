@@ -1,0 +1,13 @@
+{
+  "folders":
+  [
+    {
+      "path": "."
+    }
+  ],
+  "syntax_override": {
+    "\\.html$": ["Handlebars", "Handlebars"],
+    "\\.mustache$": ["Mustache", "syntax", "mustache"],
+    "\\.js$": ["Babel", "JavaScript (Babel)"]
+  }
+}

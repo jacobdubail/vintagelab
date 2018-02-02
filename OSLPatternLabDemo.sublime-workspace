@@ -1,0 +1,1981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"empt",
+				"empty_transaction_details"
+			],
+			[
+				"coll",
+				"collect_url"
+			],
+			[
+				"pick",
+				"pickadate"
+			],
+			[
+				"start",
+				"start_before_today"
+			],
+			[
+				"sub_to",
+				"sub_token_url"
+			],
+			[
+				"kl",
+				"klaviyo_product"
+			],
+			[
+				"kla",
+				"klaviyo_products"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"prodcut",
+				"product_code"
+			],
+			[
+				"disc",
+				"discount"
+			],
+			[
+				"tran",
+				"transaction_id"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"redi",
+				"redirect_complete"
+			],
+			[
+				"sub",
+				"sub_token"
+			],
+			[
+				"cur",
+				"customer_id"
+			],
+			[
+				"prdo",
+				"product_code"
+			],
+			[
+				"klav",
+				"klaviyo_product"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"first",
+				"customer_first_name"
+			],
+			[
+				"total",
+				"order_total"
+			],
+			[
+				"doubl",
+				"double"
+			],
+			[
+				"crae",
+				"createElement"
+			],
+			[
+				"drop",
+				"dropdown_id"
+			],
+			[
+				"update",
+				"update_form_display"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"mult",
+				"multiplier_sm"
+			],
+			[
+				"the_tti",
+				"the_title_attribute"
+			],
+			[
+				"fh",
+				"fheight"
+			],
+			[
+				"wp_trim",
+				"wp_trim_words"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script"
+			],
+			[
+				"wp_regi",
+				"wp_register_script"
+			],
+			[
+				"rotate",
+				"rotate()"
+			],
+			[
+				"transl",
+				"translateX()"
+			],
+			[
+				"bootstrap-res",
+				"bootstrap-responsive-style"
+			],
+			[
+				"marg",
+				"marginVar"
+			],
+			[
+				"get_tempo",
+				"get_template_directory_uri"
+			],
+			[
+				"db",
+				"d:b\tdisplay:block"
+			],
+			[
+				"get_style",
+				"get_stylesheet_uri"
+			],
+			[
+				"style",
+				"stylesheet_directory_uri"
+			],
+			[
+				"WP_DE",
+				"WP_DEBUG_DISPLAY"
+			],
+			[
+				"boc",
+				"border-color"
+			],
+			[
+				"the_psot",
+				"the_post_thumbnail"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"d",
+				"d:ib\tdisplay:inline-block"
+			],
+			[
+				"get_current_user",
+				"get_current_user_id"
+			],
+			[
+				"new",
+				"new_dls_array"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"credits",
+				"credits_needed_to_download"
+			],
+			[
+				"get_current_u",
+				"get_current_user_id"
+			],
+			[
+				"get_curre",
+				"get_current_user_id"
+			],
+			[
+				"thumb",
+				"thumb_src"
+			],
+			[
+				"thum",
+				"thumb_alt"
+			],
+			[
+				"thu",
+				"thumb_src"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"dis",
+				"dis\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tans",
+				"transition"
+			],
+			[
+				"pos",
+				"pos:r\tposition:relative"
+			],
+			[
+				"pre",
+				"prev_posts"
+			],
+			[
+				"gt",
+				"gtOrLt"
+			],
+			[
+				"post",
+				"post_label"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"displ",
+				"display-flex"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"window",
+				"window_width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"abbr",
+				"abbrMonth"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"term_",
+				"term_id"
+			],
+			[
+				"is_post_type",
+				"is_post_type_archive"
+			],
+			[
+				"wp_dere",
+				"wp_deregister_style"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"bak",
+				"background-origin"
+			],
+			[
+				"social",
+				"social_icons"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"list-t",
+				"list-style"
+			],
+			[
+				"loop",
+				"in_the_loop"
+			],
+			[
+				"q",
+				"q_obj"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"get_post_thum",
+				"get_the_post_thumbnail"
+			],
+			[
+				"define",
+				"define_wp\tConfig-Constants"
+			],
+			[
+				"dir",
+				"directors"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"get_searc",
+				"get_search_query"
+			],
+			[
+				"this",
+				"this_year"
+			],
+			[
+				"lett",
+				"letter_term"
+			],
+			[
+				"let",
+				"letter_id"
+			],
+			[
+				"is_int",
+				"is_integer"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"fil",
+				"film_links"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"cr",
+				"critic_name"
+			],
+			[
+				"get_att",
+				"wp_get_attachment_url"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"abs",
+				"abs\tCSS - position: absolute;"
+			],
+			[
+				"template_di",
+				"get_template_directory_uri"
+			],
+			[
+				"pro",
+				"productInfo2"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"main",
+				"mainNav"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"scrol",
+				"scrollParallax"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"the_author_p",
+				"the_author_posts_link"
+			],
+			[
+				"the_autho",
+				"the_author_posts"
+			],
+			[
+				"n",
+				"nl2br"
+			],
+			[
+				"z",
+				"z-index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/_patterns/01-molecules/blocks/block-hero.mustache",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_patterns/02-organisms/forms/stacked-form.mustache",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"set javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javasci",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"set javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"set javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set javsac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set java",
+				"Set Syntax: Java"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"set javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"html twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"ste html tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"set html t",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"fetf",
+				"Fetch: File"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"br",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Setup Server…"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wod",
+				"Word Wrap: Toggle"
+			],
+			[
+				"snipp acf",
+				"Snippet: ACF-social"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set sty php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"fetcm",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"class",
+				"Snippet: class …"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"fet ma",
+				"Fetch: Manage"
+			],
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"fet m",
+				"Fetch: Manage"
+			],
+			[
+				"tidyp",
+				"Tidy PHP"
+			],
+			[
+				"snipp tweet",
+				"Snippet: GetTweets"
+			],
+			[
+				"fet f",
+				"Fetch: File"
+			],
+			[
+				"fetch m",
+				"Fetch: Manage"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"snipp the l",
+				"Snippet: The Loop"
+			],
+			[
+				"snippet h",
+				"Snippet: Theme Head"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snippet loop",
+				"Snippet: The Loop (PHP)"
+			],
+			[
+				"set",
+				"Set Syntax: JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"gist ",
+				"Gist: Open Gist"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"open gist",
+				"Gist: Open Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/source",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/source/_patterns",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/source/_patterns/01-molecules",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/source/_patterns/02-organisms",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/source/_patterns/02-organisms/forms"
+	],
+	"file_history":
+	[
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/OldSchool/PatternLabDemo/OSLPatternLabDemo.sublime-project",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/components/_buttons.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/utils/_placeholders.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/functions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/footer.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/parts/logo.svg.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/images/logo_white.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/login.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/comments.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/shortcodes.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/theme_support.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/widget.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/sidebars.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/comments.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/svg/logo.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/svg/logo-white.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/page-testimonials.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/base/_typography.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/components/_testimonials.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/front-page.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/main.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/vendors/_mappy.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/page.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/layout/_footer.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/parts/slides.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/page-solutions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/pages/_solutions.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/utils/_variables.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/base/_headings.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/pages/_page.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/images/managed-backups.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/nav_walker.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/acf_fields.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/images/ccdna.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/images/managed-server.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/images/managed-workstation.svg",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/pages/_entry.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/parts/banner.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/js/main.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/style.css",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/layout/_header.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/themes/_site.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/js/plugins/fittext.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/components/_carousel.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-config.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/header.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/js/owl.carousel.min.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/layout/_navigation.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/parts/contact.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/base/_lists.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/vendors/owl/_core.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/js/plugins/collapse.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/base/_animations.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/js/plugins/dropdowns.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/utils/_functions.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/Gulpfile.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/ProMission.sublime-project",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/layout/_grid.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/layout/_search.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/components/_accordion.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/scss/components/_card.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/public/wp-content/themes/promission/lib/foxyshop.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/Klaviyo.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/log.txt",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/process-pastdue-item.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/datafeed.xml",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/foxycart-datafeed-endpoint.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/fulfilled-feed.txt",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/fulfilled-order.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/foxycart-sso-endpoint.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/foxycart-subtoken-endpoint.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/ga_debug.json",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Jacob-Adam Projects/443 JD Blue Earth Alliance/From Client/Dropbox Photos.txt",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/quote.txt",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/fc/datafeed-functions.php",
+		"/Users/jacob/Desktop/OSL Jet/jet-vintage-blast.txt",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/foxyshop-single-product.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/style.css",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-checkout.twig.html",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-receipt.twig.html",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-config-footer.twig",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/product/cart-submit-pixels.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/reviews_yotpo.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/node_modules/browser-sync/lib/templates/script-tags.tmpl",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/foxyshop-footer.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-cart.twig.html",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-cart-include.twig",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-config-header.twig",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/page-yotpo.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-config.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/base/_typography.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/fc-custom-footer-config.10.14.2016.twig",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/product-carousel.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/foxyshop-all-products.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/footer.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/stars_yotpo.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/template-amazon-redirect.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/themes/_site.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/plugins/foxyshop/templateredirect.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/functions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/plugins/foxyshop/adminfunctions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/plugins/foxyshop/helperfunctions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/foxyshop-datafeed-endpoint.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/plugins/foxyshop/datafeedfunctions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/plugins/foxyshop/customposttype.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/header.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/objects/_product.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/Gulpfile.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-includes/theme-compat/footer.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/inline_scripts.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/node_modules/tar/test/header.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/npm-debug.log",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/package.json",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/Gruntfile.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/utils/_variables.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/base/_inputs.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/single.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/twentyfourteen/functions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/pages/_entry.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/scss/layout/_forms.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-content/themes/osl/parts/new_relic.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/public/wp-admin/css/colors/_variables.scss",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/oslabs.sublime-project",
+		"/private/var/folders/ds/xt2y_dbj2sn1nxcb23hn82hr0000gn/T/fz3temp-1/geo.js",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/428/Pear/pear/functions.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/428/Pear/pear/style.css",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/428/Pear/pear/page-home.php",
+		"/Users/jacob/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/428/Pear/pear/header.php"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 140.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/_patterns/01-molecules/blocks/block-hero.mustache",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								129
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Mustache/syntax/mustache.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/_patterns/02-organisms/forms/stacked-form.mustache",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": false,
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Mustache/syntax/mustache.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 250.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 239.0
+	},
+	"pinned_build_system": "",
+	"project": "OSLPatternLabDemo.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_but",
+				"promission/scss/components/_buttons.scss"
+			],
+			[
+				"placeh",
+				"promission/scss/utils/_placeholders.scss"
+			],
+			[
+				"func",
+				"public/wp-content/themes/promission/functions.php"
+			],
+			[
+				"_butt",
+				"promission/scss/components/_buttons.scss"
+			],
+			[
+				"style.css",
+				"promission/style.css"
+			],
+			[
+				"logo.svg.php",
+				"promission/parts/logo.svg.php"
+			],
+			[
+				"foot",
+				"promission/footer.php"
+			],
+			[
+				"lib/wid",
+				"promission/lib/widget.php"
+			],
+			[
+				"lib/theme",
+				"promission/lib/theme_support.php"
+			],
+			[
+				"sidebars",
+				"promission/lib/sidebars.php"
+			],
+			[
+				"lib/shor",
+				"promission/lib/shortcodes.php"
+			],
+			[
+				"lib/comme",
+				"promission/lib/comments.php"
+			],
+			[
+				"commen",
+				"promission/comments.php"
+			],
+			[
+				"login.",
+				"promission/lib/login.php"
+			],
+			[
+				"_var",
+				"public/wp-content/themes/promission/scss/utils/_variables.scss"
+			],
+			[
+				"footer",
+				"promission/footer.php"
+			],
+			[
+				"logo",
+				"promission/svg/logo-white.svg"
+			],
+			[
+				"logo.",
+				"promission/svg/logo.svg"
+			],
+			[
+				"main.sc",
+				"promission/scss/main.scss"
+			],
+			[
+				"front",
+				"promission/front-page.php"
+			],
+			[
+				"_typ",
+				"public/wp-content/themes/promission/scss/base/_typography.scss"
+			],
+			[
+				"part/slid",
+				"promission/parts/slides.php"
+			],
+			[
+				"page-sol",
+				"promission/page-solutions.php"
+			],
+			[
+				"mapp",
+				"promission/scss/vendors/_mappy.scss"
+			],
+			[
+				"_foot",
+				"public/wp-content/themes/promission/scss/layout/_footer.scss"
+			],
+			[
+				"_headings",
+				"promission/scss/base/_headings.scss"
+			],
+			[
+				"backup",
+				"promission/images/managed-backups.svg"
+			],
+			[
+				"_page",
+				"public/wp-content/themes/promission/scss/pages/_page.scss"
+			],
+			[
+				"_entry",
+				"promission/scss/pages/_entry.scss"
+			],
+			[
+				"acf",
+				"promission/lib/acf_fields.php"
+			],
+			[
+				"nav_w",
+				"promission/lib/nav_walker.php"
+			],
+			[
+				"page",
+				"promission/page.php"
+			],
+			[
+				"main.js",
+				"public/wp-content/themes/promission/js/main.js"
+			],
+			[
+				"part/slides",
+				"promission/parts/slides.php"
+			],
+			[
+				"acf_f",
+				"promission/lib/acf_fields.php"
+			],
+			[
+				"part/ban",
+				"promission/parts/banner.php"
+			],
+			[
+				"_site",
+				"promission/scss/themes/_site.scss"
+			],
+			[
+				"_ty",
+				"promission/scss/base/_typography.scss"
+			],
+			[
+				"front-",
+				"promission/front-page.php"
+			],
+			[
+				"_head",
+				"promission/scss/layout/_header.scss"
+			],
+			[
+				"_header",
+				"promission/scss/layout/_header.scss"
+			],
+			[
+				"_carou",
+				"public/wp-content/themes/promission/scss/components/_carousel.scss"
+			],
+			[
+				"svg/logo",
+				"promission/svg/logo.svg"
+			],
+			[
+				"header",
+				"promission/header.php"
+			],
+			[
+				"logo-whi",
+				"promission/svg/logo-white.svg"
+			],
+			[
+				"nav_wal",
+				"promission/lib/nav_walker.php"
+			],
+			[
+				"wp-conf",
+				"public/wp-config.php"
+			],
+			[
+				"_carousel",
+				"promission/scss/components/_carousel.scss"
+			],
+			[
+				"_pae",
+				"promission/scss/pages/_page.scss"
+			],
+			[
+				"_nav",
+				"promission/scss/layout/_navigation.scss"
+			],
+			[
+				"_heading",
+				"promission/scss/base/_headings.scss"
+			],
+			[
+				"theme_su",
+				"promission/lib/theme_support.php"
+			],
+			[
+				"_hder",
+				"promission/scss/layout/_header.scss"
+			],
+			[
+				"_typo",
+				"public/wp-content/themes/promission/scss/base/_typography.scss"
+			],
+			[
+				"_list",
+				"promission/scss/base/_lists.scss"
+			],
+			[
+				"_place",
+				"promission/scss/utils/_placeholders.scss"
+			],
+			[
+				"place",
+				"promission/scss/utils/_placeholders.scss"
+			],
+			[
+				"_heaing",
+				"promission/scss/base/_headings.scss"
+			],
+			[
+				"nav_walk",
+				"promission/lib/nav_walker.php"
+			],
+			[
+				"_anim",
+				"promission/scss/base/_animations.scss"
+			],
+			[
+				"main.scs",
+				"promission/scss/main.scss"
+			],
+			[
+				"_func",
+				"promission/scss/utils/_functions.scss"
+			],
+			[
+				"gulpf",
+				"promission/Gulpfile.js"
+			],
+			[
+				"log.txt",
+				"fc/log.txt"
+			],
+			[
+				"pastdu",
+				"fc/process-pastdue-item.php"
+			],
+			[
+				"klav",
+				"fc/Klaviyo.php"
+			],
+			[
+				"pastdue",
+				"fc/process-pastdue-item.php"
+			],
+			[
+				"datafee",
+				"fc/datafeed.xml"
+			],
+			[
+				"datafee-en",
+				"fc/foxycart-datafeed-endpoint.php"
+			],
+			[
+				"datafeed.xml",
+				"fc/datafeed.xml"
+			],
+			[
+				"past",
+				"fc/process-pastdue-item.php"
+			],
+			[
+				"datafeed-end",
+				"fc/foxycart-datafeed-endpoint.php"
+			],
+			[
+				"datafee-end",
+				"fc/foxycart-datafeed-endpoint.php"
+			],
+			[
+				"sso",
+				"fc/foxycart-sso-endpoint.php"
+			],
+			[
+				"ga",
+				"fc/ga_debug.json"
+			],
+			[
+				"ga_",
+				"fc/ga_debug.json"
+			],
+			[
+				"datafeed-en",
+				"fc/foxycart-datafeed-endpoint.php"
+			],
+			[
+				"datafeed.x",
+				"fc/datafeed.xml"
+			],
+			[
+				"fulf",
+				"fc/fulfilled-feed.txt"
+			],
+			[
+				"fulfil-te",
+				"fc/fulfilled-feed.txt"
+			],
+			[
+				"ful-fe",
+				"fc/fulfilled-feed.txt"
+			],
+			[
+				"data",
+				"fc/datafeed.xml"
+			],
+			[
+				"datafe",
+				"fc/datafeed.xml"
+			],
+			[
+				"dataf",
+				"fc/datafeed.xml"
+			],
+			[
+				"dat",
+				"fc/datafeed.xml"
+			],
+			[
+				"datafeed-fun",
+				"fc/datafeed-functions.php"
+			],
+			[
+				"yotpo",
+				"public/wp-content/themes/osl/parts/reviews_yotpo.php"
+			],
+			[
+				"single-pro",
+				"public/wp-content/themes/osl/foxyshop-single-product.php"
+			],
+			[
+				"page-yot",
+				"osl/page-yotpo.php"
+			],
+			[
+				"yot",
+				"osl/parts/reviews_yotpo.php"
+			],
+			[
+				"review_yo",
+				"osl/parts/reviews_yotpo.php"
+			],
+			[
+				"sing-pro",
+				"osl/foxyshop-single-product.php"
+			],
+			[
+				"style",
+				"osl/style.css"
+			],
+			[
+				"cart-s",
+				"osl/parts/product/cart-submit-pixels.php"
+			],
+			[
+				"foxy-fo",
+				"osl/foxyshop-footer.php"
+			],
+			[
+				"foxy-foo",
+				"osl/foxyshop-footer.php"
+			],
+			[
+				"parts/",
+				"osl/parts/product/cart-submit-pixels.php"
+			],
+			[
+				"prod-car",
+				"osl/parts/product-carousel.php"
+			],
+			[
+				"templ-re",
+				"osl/template-amazon-redirect.php"
+			],
+			[
+				"amazon",
+				"public/wp-content/themes/osl/template-amazon-redirect.php"
+			],
+			[
+				"ama-re",
+				"osl/template-amazon-redirect.php"
+			],
+			[
+				"amazon-re",
+				"public/wp-content/themes/osl/template-amazon-redirect.php"
+			],
+			[
+				"inline_sc",
+				"osl/parts/inline_scripts.php"
+			],
+			[
+				"head",
+				"osl/node_modules/tar/test/header.js"
+			],
+			[
+				"npm",
+				"osl/npm-debug.log"
+			],
+			[
+				"gulpfil",
+				"osl/Gulpfile.js"
+			],
+			[
+				"datafeedfun",
+				"public/wp-content/plugins/foxyshop/datafeedfunctions.php"
+			],
+			[
+				"datafeedend",
+				"osl/foxyshop-datafeed-endpoint.php"
+			],
+			[
+				"helperfun",
+				"public/wp-content/plugins/foxyshop/helperfunctions.php"
+			],
+			[
+				"amaz",
+				"osl/template-amazon-redirect.php"
+			],
+			[
+				"datafun",
+				"public/wp-content/plugins/foxyshop/datafeedfunctions.php"
+			],
+			[
+				"new_rel",
+				"osl/parts/new_relic.php"
+			],
+			[
+				"single",
+				"public/wp-content/themes/osl/single.php"
+			],
+			[
+				"_en",
+				"osl/scss/pages/_entry.scss"
+			],
+			[
+				"twentyfour/func",
+				"public/wp-content/themes/twentyfourteen/functions.php"
+			],
+			[
+				"_inpu",
+				"osl/scss/base/_inputs.scss"
+			],
+			[
+				"_form",
+				"public/wp-content/themes/osl/scss/layout/_forms.scss"
+			],
+			[
+				"datafeedf",
+				"public/wp-content/plugins/foxyshop/datafeedfunctions.php"
+			],
+			[
+				"foxyshop/hel",
+				"public/wp-content/plugins/foxyshop/helperfunctions.php"
+			],
+			[
+				"grunt",
+				"osl/Gruntfile.js"
+			],
+			[
+				"packa",
+				"osl/package.json"
+			],
+			[
+				"page-tr",
+				"page-training.php"
+			],
+			[
+				"timze",
+				"js/timezones.json"
+			],
+			[
+				"momen-t",
+				"js/moment-timezone.js"
+			],
+			[
+				"side-foo",
+				"sidebar-footer.php"
+			],
+			[
+				"side-he",
+				"sidebar-header.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"page-tra",
+				"page-training.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "promi",
+		"selected_items":
+		[
+			[
+				"promi",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/promission/app/ProMission.sublime-project"
+			],
+			[
+				"wo",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/wideorbit/app/wo.sublime-project"
+			],
+			[
+				"bea",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/blueearthalliance/app/BEA.sublime-project"
+			],
+			[
+				"",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/provisors/app/provisors.sublime-project"
+			],
+			[
+				"osla",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/oslabs.sublime-project"
+			],
+			[
+				"oxfam",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oxfamgifts/app/oxfam.sublime-project"
+			],
+			[
+				"picf",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/pictureframestudios/app/picframes.sublime-project"
+			],
+			[
+				"botan.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/JTD/BotanicalCraft/botanicalcraft.sublime-project"
+			],
+			[
+				"oxf",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oxfamgifts/app/oxfam.sublime-project"
+			],
+			[
+				"fsm.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/fusionspark/app/FSM.sublime-project"
+			],
+			[
+				"happ.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/happybody/happybodystore.sublime-project"
+			],
+			[
+				"osl",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/oslabs.sublime-project"
+			],
+			[
+				"bus.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/busplus/busplus.sublime-project"
+			],
+			[
+				"oslab",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/oslabs.sublime-project"
+			],
+			[
+				"bu",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/buxton/app/buxton.sublime-project"
+			],
+			[
+				"bux",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/buxton/app/buxton.sublime-project"
+			],
+			[
+				"osla.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/oldschoollabs/app/oslabs.sublime-project"
+			],
+			[
+				"mp.j",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/mp/mp.sublime-project"
+			],
+			[
+				"bus",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/busplus/busplus.sublime-project"
+			],
+			[
+				"mama",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/mamadoo/app/mamadoo.sublime-project"
+			],
+			[
+				"greenligh",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/Pressmatic/greenlightstudenttravel/app/greenlight.sublime-project"
+			],
+			[
+				"buspl",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/busplus/busplus.sublime-project"
+			],
+			[
+				"proo",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/rno1/proov.sublime-project"
+			],
+			[
+				"db",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/dbrains/dbrains.sublime-project"
+			],
+			[
+				"mp",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/mp/mp.sublime-project"
+			],
+			[
+				"glst",
+				"~/Desktop/Dropbox/MissingPieceStudios/Projects/vvv/www/glst/glst.sublime-project"
+			],
+			[
+				"bloo",
+				"~/Desktop/vvv/www/bloomreach/bloomreach.sublime-project"
+			],
+			[
+				"solari",
+				"~/Desktop/vvv/www/solari/solari.sublime-project"
+			],
+			[
+				"ch",
+				"~/Desktop/vvv/www/chamber/chamber.sublime-project"
+			],
+			[
+				"blue",
+				"~/Desktop/vvv/www/bluescape/bluescape.sublime-project"
+			],
+			[
+				"cha",
+				"~/Desktop/vvv/www/chamber/chamber.sublime-project"
+			],
+			[
+				"pe",
+				"~/Desktop/vvv/www/petal/pedal.sublime-project"
+			],
+			[
+				"raf",
+				"~/Desktop/vvv/www/raffle/raffle.sublime-project"
+			],
+			[
+				"raff",
+				"~/Desktop/vvv/www/raffle/raffle.sublime-project"
+			],
+			[
+				"vmt",
+				"~/Desktop/vvv/www/vmt/vmt.sublime-project"
+			],
+			[
+				"ihit",
+				"~/Desktop/vvv/www/ihit/ihit.sublime-project"
+			],
+			[
+				"vm",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/VMT/vmt.sublime-workspace"
+			],
+			[
+				"ihi",
+				"~/Desktop/vvv/www/ihit/ihit.sublime-project"
+			],
+			[
+				"wac",
+				"~/Desktop/vvv/www/wachtel/wachtel.sublime-project"
+			],
+			[
+				"ped",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/PbyP/pedal.sublime-project"
+			],
+			[
+				"gol",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/FusionSparkMedia/gol.sublime-workspace"
+			],
+			[
+				"peda",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/PbyP/pedal.sublime-project"
+			],
+			[
+				"hf",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/HealthFidelity/hf.sublime-project"
+			],
+			[
+				"medi",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/MediaPro/mp-wpe.sublime-project"
+			],
+			[
+				"ucl",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/UClear/uclear.sublime-project"
+			],
+			[
+				"bloom",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/Bloomreach/bloomreach.sublime-project"
+			],
+			[
+				"blo",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/Bloomreach/bloomreach.sublime-project"
+			],
+			[
+				"mz",
+				"~/Desktop/MZ WP DONT DELETE/wp-content/themes/mzcoach/mzcoach.sublime-project"
+			],
+			[
+				"fsm",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/FusionSparkMedia/fsm.sublime-project"
+			],
+			[
+				"glam",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/428/GlamSketch/glam.sublime-project"
+			],
+			[
+				"ogle",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/CasJam/Oglethorpe/ogle_wp.sublime-project"
+			],
+			[
+				"ogl",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/CasJam/Oglethorpe/ogle_wp.sublime-project"
+			],
+			[
+				"ogle_wp",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/CasJam/Oglethorpe/ogle_wp.sublime-project"
+			],
+			[
+				"nerida",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Kynan/nerida.sublime-project"
+			],
+			[
+				"pico",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Pico/pico.sublime-project"
+			],
+			[
+				"g-f",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/G-Form/gform.sublime-project"
+			],
+			[
+				"wp",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/wp_base/wp_base.sublime-project"
+			],
+			[
+				"hh",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/HH/wp/wp-content/themes/hh/hh.sublime-project"
+			],
+			[
+				"gform",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/G-Form/gform.sublime-project"
+			],
+			[
+				"gf",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/G-Form/gform.sublime-project"
+			],
+			[
+				"gfo",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/G-Form/gform.sublime-project"
+			],
+			[
+				"bz",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/BaziniHopp/wp/wp-content/themes/bazini/bazini.sublime-project"
+			],
+			[
+				"wi",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/WI/wpengine/wp-content/themes/wi/wi.sublime-project"
+			],
+			[
+				"wp_b",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/wp_base/wp_base.sublime-project"
+			],
+			[
+				"wp_",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/wp_base/wp_base.sublime-project"
+			],
+			[
+				"ahfif",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/Ahfif/wpengine/wp-content/themes/ahfif/ahfif-wpe.sublime-project"
+			],
+			[
+				"cru",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/CRU/wp/wp-content/themes/cru/cru.sublime-project"
+			],
+			[
+				"land",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Land Guys/landguys.sublime-project"
+			],
+			[
+				"nwcf",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/NWC/Foundation/nwcf.sublime-project"
+			],
+			[
+				"kids",
+				"~/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/NWC/Kids/wp/wp-content/themes/kids/kids.sublime-project"
+			],
+			[
+				"hc",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Uberangst/HCx/wp/wp-content/themes/hc/hc.sublime-project"
+			],
+			[
+				"ahf",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/Ahfif/wp/wp-content/themes/ahfif/ahfif.sublime-project"
+			],
+			[
+				"ah",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/Ahfif/wp/wp-content/themes/ahfif/ahfif.sublime-project"
+			],
+			[
+				"base",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/wp_base/base/base.sublime-project"
+			],
+			[
+				"rev",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/revision/wp/wp-content/themes/revision/revision.sublime-project"
+			],
+			[
+				"elco",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Elco/wp/wp-content/themes/elco/elco.sublime-project"
+			],
+			[
+				"sym",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Symbolix/wp/wp-content/themes/symbolix/symbolix.sublime-project"
+			],
+			[
+				"wp_base",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/wp_base/wp_base.sublime-project"
+			],
+			[
+				"words",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/StrangeWords/wp/wp-content/themes/words/words.sublime-project"
+			],
+			[
+				"set css",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/rno1/TPUF/wp/wp-content/themes/tpuf/base.sublime-project"
+			],
+			[
+				"uber",
+				"/Users/jacob/Desktop/Dropbox/WebDesign/Active Web Projects/JTD Projects/Uberangst/wordpress/wp-content/themes/uberangst/uberangst.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 606.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
